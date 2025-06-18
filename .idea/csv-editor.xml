@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CsvFileAttributes">
+    <option name="attributeMap">
+      <map>
+        <entry key="\agrogeoweb\agrogeoinfo\agrogeoinfoapp\static\data\odm2cvs\actiontype.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\agrogeoweb\agrogeoinfo\agrogeoinfoapp\static\data\odm2cvs\relationshiptype.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\agrogeoweb\agrogeoinfo\agrogeoinfoapp\static\data\odm2cvs\resulttype.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\agrogeoweb\agrogeoinfo\agrogeoinfoapp\static\data\odm2cvs\samplingfeaturegeotype.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\agrogeoweb\agrogeoinfo\agrogeoinfoapp\static\data\odm2cvs\samplingfeaturetype.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\agrogeoweb\agrogeoinfo\agrogeoinfoapp\static\data\odm2cvs\sitetype.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\agrogeoweb\agrogeoinfo\agrogeoinfoapp\static\data\odm2cvs\units.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\agrogeoweb\agrogeoinfo\agrogeoinfoapp\static\data\odm2cvs\unitstype.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\agrogeoweb\agrogeoinfo\agrogeoinfoapp\static\data\odm2cvs\variablename.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\agrogeoweb\agrogeoinfo\agrogeoinfoapp\static\data\odm2cvs\variabletype.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
